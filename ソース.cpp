@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 
+//this is Oneliner Software test.
+//some one use like this to server admittion.by some like butch.
+
 bool HELP(int V, char* c[]){
 	std::cout << "<HELP!>" << std::endl;
 	std::cout << "<Usage>" << std::endl;
